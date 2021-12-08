@@ -33,7 +33,7 @@ function checkButton2()
   }   
   else if(document.getElementById('Q2B_space').checked) 
   {   
-      document.getElementById("Q2_Inorrect").innerHTML = "Incorrect! The moon is not a planet.";
+      document.getElementById("Q2_Incorrect").innerHTML = "Incorrect! The moon is not a planet.";
   }
   else if(document.getElementById('Q2C_space').checked) 
   {   
